@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1,A
+#EXTINF:-1,HBO
 https://live.televisiongratishd.com/tvplus2021/31_.m3u8?token=WfFgQua9VH2QfzExNPcmsA&expires=1609548568&ip=172.56.6.96
+#EXTINF:-1,HBO2
+https://live.televisiongratishd.com/tvplus2021/32_.m3u8?token=NqQrWlcugHDy6FGqymRLbA&expires=1609554474&ip=172.56.6.96
+#EXTINF:-1,TNT
+https://live.televisiongratishd.com/tvplus2021/41_.m3u8?token=gcpvy8hUQuEvIqsCuARTdA&expires=1609554346&ip=172.56.6.96
+#EXTINF:-1,FOX PREMIUM ACTION
+https://live.televisiongratishd.com/tvplus2021/138_.m3u8?token=zK1jpiVviGTpgcu7IH3C3g&expires=1609554566&ip=172.56.6.96
